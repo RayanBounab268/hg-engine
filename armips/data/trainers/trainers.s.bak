@@ -619,11 +619,9 @@ trainerdata 20, "Falkner"
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | F_PRIORITIZE_SUPER_EFFECTIVE
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | 0
     battletype SINGLE_BATTLE
     endentry
-
-
 
 
 
