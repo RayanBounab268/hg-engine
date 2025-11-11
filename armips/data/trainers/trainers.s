@@ -640,7 +640,7 @@ trainerdata 20, "Falkner"
         abilityslot 0
         level 13
         pokemon SPECIES_PIPLUP
-        move MOVE_BUBBLE
+        move MOVE_WATER_PULSE
         move MOVE_ROOST
         move MOVE_AERIAL_ACE
         move MOVE_WORK_UP
@@ -651,7 +651,7 @@ trainerdata 20, "Falkner"
         abilityslot 0
         level 14
         pokemon SPECIES_GLIGAR
-        move MOVE_SAND_TOMB
+        move MOVE_BULLDOZE
         move MOVE_ROOST
         move MOVE_POISON_TAIL
         move MOVE_SPIKES
@@ -16711,7 +16711,7 @@ trainerdata 494, "Georgina"
 trainerdata 495, "Boy"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_PASSERBY
-    nummons 1
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -16725,6 +16725,12 @@ trainerdata 495, "Boy"
         ivs 0
         abilityslot 0
         level 5
+        pokemon SPECIES_ROGGENROLA
+        ballseal 0
+        // mon 1
+        ivs 0
+        abilityslot 0
+        level 7
         pokemon SPECIES_CHIKORITA
         ballseal 0
     endparty
@@ -16732,7 +16738,7 @@ trainerdata 495, "Boy"
 trainerdata 496, "Boy"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_PASSERBY
-    nummons 1
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -16746,6 +16752,14 @@ trainerdata 496, "Boy"
         ivs 0
         abilityslot 0
         level 5
+        pokemon SPECIES_TYNAMO
+        move MOVE_TACKLE
+        move MOVE_SPARK
+        ballseal 0
+        // mon 1
+        ivs 0
+        abilityslot 0
+        level 7
         pokemon SPECIES_CYNDAQUIL
         ballseal 0
     endparty
@@ -16753,7 +16767,7 @@ trainerdata 496, "Boy"
 trainerdata 497, "Boy"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_PASSERBY
-    nummons 1
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -16767,6 +16781,12 @@ trainerdata 497, "Boy"
         ivs 0
         abilityslot 0
         level 5
+        pokemon SPECIES_SNEASEL
+        ballseal 0
+        // mon 1
+        ivs 0
+        abilityslot 0
+        level 7
         pokemon SPECIES_TOTODILE
         ballseal 0
     endparty
