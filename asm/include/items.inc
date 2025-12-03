@@ -2560,5 +2560,6 @@
 .equ ITEM_SCARLET_BOOK_SVID,            2555
 .equ ITEM_VIOLET_BOOK_SVID,             2556
 .equ ITEM_BRIARS_BOOK,                  2557
+.equ ITEM_CANDY_BOX,                    2558
 
 .endif

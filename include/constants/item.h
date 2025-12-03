@@ -2561,13 +2561,14 @@
 #define ITEM_SCARLET_BOOK_SVID            2555
 #define ITEM_VIOLET_BOOK_SVID             2556
 #define ITEM_BRIARS_BOOK                  2557
+#define ITEM_CANDY_BOX                    2558
 
-#define MAX_BASE_ITEM_NUM ITEM_BRIARS_BOOK
+#define MAX_BASE_ITEM_NUM ITEM_CANDY_BOX
 
 // define your custom move effects below like this
 // #define ITEM_CUSTOM_1 (MAX_BASE_ITEM_NUM + 1)
 
-#define MAX_TOTAL_ITEM_NUM ITEM_BRIARS_BOOK
+#define MAX_TOTAL_ITEM_NUM ITEM_CANDY_BOX
 
 
 #define NUM_MEGA_STONES 48 // includes the pixie plate

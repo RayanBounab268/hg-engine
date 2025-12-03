@@ -535,3 +535,4 @@ A sturdy Capsule that can only be\nopened with a special key.
 A shiny red orb that is said to have\na deep connection to a legend of the\nHoenn region.
 A shiny blue orb that is said to\nhave a deep connection to a legend\nof the Hoenn region.
 A crystal ball that was excavated\nfrom the ground. It is covered with\nbits of rock and earth, but it is\rstill very beautiful.
+A box of candy that is packed with\nenergy. It raises the level of a single\nPokémon by one.
