@@ -16807,13 +16807,13 @@ trainerdata 495, "Boy"
         // mon 1
         ivs 0
         abilityslot 0
-        level 7
+        level 5
         pokemon SPECIES_CHIKORITA
         ballseal 0
     endparty
 
 trainerdata 496, "Boy"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_PASSERBY
     nummons 2
     item ITEM_NONE
@@ -16830,20 +16830,12 @@ trainerdata 496, "Boy"
         abilityslot 0
         level 4
         pokemon SPECIES_TYNAMO
-        move MOVE_TACKLE
-        move MOVE_SPARK
-        move MOVE_NONE
-        move MOVE_NONE
         ballseal 0
         // mon 1
         ivs 0
         abilityslot 0
-        level 7
+        level 5
         pokemon SPECIES_CYNDAQUIL
-        move MOVE_TACKLE
-        move MOVE_LEER
-        move MOVE_NONE
-        move MOVE_NONE
         ballseal 0
     endparty
 
@@ -16869,7 +16861,7 @@ trainerdata 497, "Boy"
         // mon 1
         ivs 0
         abilityslot 0
-        level 7
+        level 5
         pokemon SPECIES_TOTODILE
         ballseal 0
     endparty
