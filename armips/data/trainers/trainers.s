@@ -263,14 +263,14 @@ trainerdata 8, "Joey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 4
+        level 5
         pokemon SPECIES_WOOLOO
         ballseal 0
 
         // mon 0
         ivs 0
         abilityslot 0
-        level 5
+        level 6
         pokemon SPECIES_RATTATA
         ballseal 0
     endparty
@@ -1578,14 +1578,14 @@ trainerdata 47, "Mikey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 4
+        level 6
         pokemon SPECIES_STARLY
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 5
+        level 6
         pokemon SPECIES_SKIDDO
         ballseal 0
     endparty
